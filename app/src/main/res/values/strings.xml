@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rekomendasi Restoran</string>
+    <string name="a_desc">Aplikasi ini ditujukan untuk tugas akb</string>
+    <string name="b_desc">Aplikasi ini menggunakan sensor gps di perangkat anroid untuk mendapatkan lokasi pengguna saat membuka aplikasi..</string>
+    <string name="c_desc">Aplikasi ini bertujuan untuk memudahkan pengguna mencari rekomendasi tempat makan terdekat</string>
+    <string name="d_desc">android</string>
+    <string name="map_content_description">Peta Resto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>
